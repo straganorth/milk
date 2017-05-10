@@ -1,0 +1,9 @@
+Building MilkCoin
+
+See doc/readme-qt.rst for instructions on building MilkCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MilkCoin.
+
+See doc/build-*.txt for instructions on building MilkCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MilkCoin.
